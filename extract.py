@@ -1,6 +1,3 @@
-#Authors: Vinay Ashokkumar
-
-
 '''import json
 with open('yelp_academic_dataset_review.json') as data:
     js = json.load(data)
