@@ -1,5 +1,3 @@
-#Authors: Vinay Ashokkumar
-
 #import json
 import pickle
 #Define Punctual and Keyword based features to which sarcasm traits are defined upon
